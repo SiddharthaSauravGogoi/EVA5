@@ -75,7 +75,7 @@ Target:
      Result:
     - Params: 8066
     - Train Accuracy: 99.6 (from 11th till 14th Epoch)
-    - Test Accuracy : 99.4 (from 10th and 14th Epoch )
+    - Test Accuracy : 99.4 (from 9th and 14th Epoch )
     
     Analysis:
     - Still no overfitting
